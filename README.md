@@ -12,6 +12,6 @@ Simple Example.
 
 ## Deployment 
 
-Simple deployment.
+Simple deployment.Easy to deploy. Easdrfgnong.
 
 ## How to Contribute
