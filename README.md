@@ -16,6 +16,8 @@ Simple deployment.Easy to deploy. Easdrfgnong.
 
 ### How to Contribute
 
+Hey I am changing How to contribute section and adding random texts.
+
 #### Copyright Section
 
 Hello copyright!
