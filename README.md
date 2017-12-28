@@ -1,6 +1,7 @@
 # Starter Web
 
 This is a simple website to show how to use Git and Github together.
+Adding a line for rebasing example.
 
 ## Introduction
 
