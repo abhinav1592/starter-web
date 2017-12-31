@@ -21,4 +21,4 @@ Hey I am changing How to contribute section and adding random texts.
 
 #### Copyright Section
 
-Hello copyright!
+Hello copyright! Alll rights reserved.
